@@ -12,5 +12,16 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Toast.makeText(this,"primer commit",Toast.LENGTH_LONG).show();
+        Toast.makeText(this,"primer commit",Toast.LENGTH_LONG).show();
+        Toast.makeText(this,"primer commit",Toast.LENGTH_LONG).show();
+        Toast.makeText(this,"primer commit",Toast.LENGTH_LONG).show();
+        Toast.makeText(this,"primer commit",Toast.LENGTH_LONG).show();
+        Toast.makeText(this,"primer commit",Toast.LENGTH_LONG).show();
+        Toast.makeText(this,"primer commit",Toast.LENGTH_LONG).show();
+
+        test();
+    }
+
+    private void test() {
     }
 }
