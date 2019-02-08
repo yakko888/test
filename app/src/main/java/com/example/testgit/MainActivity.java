@@ -26,6 +26,15 @@ public class MainActivity extends AppCompatActivity {
 
 
         Toast.makeText(this,"primer commit",Toast.LENGTH_LONG).show();
+
+        Toast.makeText(this,"primer commit",Toast.LENGTH_LONG).show();
+        Toast.makeText(this,"primer commit",Toast.LENGTH_LONG).show();
+
         
+    }
+
+    @Override
+    protected void onStart() {
+        super.onStart();
     }
 }
