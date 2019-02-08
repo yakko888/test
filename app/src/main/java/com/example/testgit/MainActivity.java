@@ -23,5 +23,9 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void test() {
+
+
+        Toast.makeText(this,"primer commit",Toast.LENGTH_LONG).show();
+        
     }
 }
